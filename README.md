@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ritik Jaiswal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikj22&label=Profile%20views&color=0e75b6&style=flat" alt="ritikj22" /> </p>
 
 
-- 🔭 I’m currently working in Tata Consultancy Services
+-  I’m currently working in Tata Consultancy Services
 
-- 🌱 I’m currently learning **MERN Stack**
+-  I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Open source Projects**
-
-- 👨‍💻 All of my projects are available at [https://myportfolio-nu-mocha.vercel.app/](https://myportfolio-nu-mocha.vercel.app/)
-
-- 📫 How to reach me **ritikjaiswal148@gmail.com**
+-  All of my projects are available at [https://myportfolio-nu-mocha.vercel.app/](https://myportfolio-nu-mocha.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
