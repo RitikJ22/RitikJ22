@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/ritik-jaiswal-36a735153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik-jaiswal-36a735153" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/ritikjaiswal148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ritikjaiswal148/" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikj22&show_icons=true&locale=en&layout=compact" alt="ritikj22" /></p>
+
 
 
 
