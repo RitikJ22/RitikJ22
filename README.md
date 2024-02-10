@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikj22&label=Profile%20views&color=0e75b6&style=flat" alt="ritikj22" /> </p>
 
- All of my projects are available at [https://myportfolio-nu-mocha.vercel.app/](https://myportfolio-nu-mocha.vercel.app/)
+ [ Discover more :](https://www.ritikjaiswal.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
