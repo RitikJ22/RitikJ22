@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikj22&label=Profile%20views&color=0e75b6&style=flat" alt="ritikj22" /> </p>
 
- [ Discover more :](https://www.ritikjaiswal.com/)
+ [ Discover more ](https://www.ritikjaiswal.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
